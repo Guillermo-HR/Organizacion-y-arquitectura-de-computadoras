@@ -1,0 +1,101 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'CLK'
+Slack : -2.734
+TNS   : -48.314
+
+Type  : Slow 1200mV 85C Model Setup 'div_frec:inst13|cuenta[24]'
+Slack : -0.662
+TNS   : -1.123
+
+Type  : Slow 1200mV 85C Model Hold 'div_frec:inst13|cuenta[24]'
+Slack : 0.360
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'CLK'
+Slack : 0.524
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'div_frec:inst13|cuenta[24]'
+Slack : -1.602
+TNS   : -5.689
+
+Type  : Slow 1200mV 85C Model Removal 'div_frec:inst13|cuenta[24]'
+Slack : 1.712
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLK'
+Slack : -3.000
+TNS   : -31.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'div_frec:inst13|cuenta[24]'
+Slack : -1.000
+TNS   : -6.000
+
+Type  : Slow 1200mV 0C Model Setup 'CLK'
+Slack : -2.385
+TNS   : -40.170
+
+Type  : Slow 1200mV 0C Model Setup 'div_frec:inst13|cuenta[24]'
+Slack : -0.534
+TNS   : -0.871
+
+Type  : Slow 1200mV 0C Model Hold 'div_frec:inst13|cuenta[24]'
+Slack : 0.320
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'CLK'
+Slack : 0.482
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'div_frec:inst13|cuenta[24]'
+Slack : -1.309
+TNS   : -4.543
+
+Type  : Slow 1200mV 0C Model Removal 'div_frec:inst13|cuenta[24]'
+Slack : 1.481
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLK'
+Slack : -3.000
+TNS   : -31.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'div_frec:inst13|cuenta[24]'
+Slack : -1.000
+TNS   : -6.000
+
+Type  : Fast 1200mV 0C Model Setup 'CLK'
+Slack : -1.120
+TNS   : -15.692
+
+Type  : Fast 1200mV 0C Model Setup 'div_frec:inst13|cuenta[24]'
+Slack : 0.161
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'div_frec:inst13|cuenta[24]'
+Slack : 0.193
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'CLK'
+Slack : 0.270
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'div_frec:inst13|cuenta[24]'
+Slack : -0.527
+TNS   : -1.784
+
+Type  : Fast 1200mV 0C Model Removal 'div_frec:inst13|cuenta[24]'
+Slack : 1.007
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLK'
+Slack : -3.000
+TNS   : -32.529
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'div_frec:inst13|cuenta[24]'
+Slack : -1.000
+TNS   : -6.000
+
+------------------------------------------------------------
