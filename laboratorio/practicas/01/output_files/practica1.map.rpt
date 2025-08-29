@@ -1,5 +1,5 @@
 Analysis & Synthesis report for practica1
-Fri Aug 22 09:02:30 2025
+Fri Aug 29 08:29:39 2025
 Quartus Prime Version 23.1std.1 Build 993 05/14/2024 SC Lite Edition
 
 
@@ -43,7 +43,7 @@ https://fpgasoftware.intel.com/eula.
 +-------------------------------------------------------------------------------------+
 ; Analysis & Synthesis Summary                                                        ;
 +------------------------------------+------------------------------------------------+
-; Analysis & Synthesis Status        ; Successful - Fri Aug 22 09:02:30 2025          ;
+; Analysis & Synthesis Status        ; Successful - Fri Aug 29 08:29:39 2025          ;
 ; Quartus Prime Version              ; 23.1std.1 Build 993 05/14/2024 SC Lite Edition ;
 ; Revision Name                      ; practica1                                      ;
 ; Top-level Entity Name              ; practica1                                      ;
@@ -271,7 +271,7 @@ Note: For table entries with two numbers listed, the numbers in parentheses indi
 Info: *******************************************************************
 Info: Running Quartus Prime Analysis & Synthesis
     Info: Version 23.1std.1 Build 993 05/14/2024 SC Lite Edition
-    Info: Processing started: Fri Aug 22 09:02:18 2025
+    Info: Processing started: Fri Aug 29 08:29:27 2025
 Info: Command: quartus_map --read_settings_files=on --write_settings_files=off practica1 -c practica1
 Warning (18236): Number of processors has not been specified which may cause overloading on shared machines.  Set the global assignment NUM_PARALLEL_PROCESSORS in your QSF to an appropriate value for best performance.
 Info (20030): Parallel compilation is enabled and will use 2 of the 2 processors detected
@@ -293,8 +293,8 @@ Info (21057): Implemented 61 device resources after synthesis - the final resour
     Info (21061): Implemented 55 logic cells
 Info: Quartus Prime Analysis & Synthesis was successful. 0 errors, 1 warning
     Info: Peak virtual memory: 618 megabytes
-    Info: Processing ended: Fri Aug 22 09:02:30 2025
+    Info: Processing ended: Fri Aug 29 08:29:39 2025
     Info: Elapsed time: 00:00:12
-    Info: Total CPU time (on all processors): 00:00:29
+    Info: Total CPU time (on all processors): 00:00:27
 
 

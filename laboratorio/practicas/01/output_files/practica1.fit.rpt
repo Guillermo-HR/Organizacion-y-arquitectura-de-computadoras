@@ -1,5 +1,5 @@
 Fitter report for practica1
-Fri Aug 22 09:02:38 2025
+Fri Aug 29 08:29:47 2025
 Quartus Prime Version 23.1std.1 Build 993 05/14/2024 SC Lite Edition
 
 
@@ -68,7 +68,7 @@ https://fpgasoftware.intel.com/eula.
 +-------------------------------------------------------------------------------------+
 ; Fitter Summary                                                                      ;
 +------------------------------------+------------------------------------------------+
-; Fitter Status                      ; Successful - Fri Aug 22 09:02:38 2025          ;
+; Fitter Status                      ; Successful - Fri Aug 29 08:29:47 2025          ;
 ; Quartus Prime Version              ; 23.1std.1 Build 993 05/14/2024 SC Lite Edition ;
 ; Revision Name                      ; practica1                                      ;
 ; Top-level Entity Name              ; practica1                                      ;
@@ -160,7 +160,7 @@ https://fpgasoftware.intel.com/eula.
 ;                            ;             ;
 ; Usage by Processor         ; % Time Used ;
 ;     Processor 1            ; 100.0%      ;
-;     Processor 2            ;   0.4%      ;
+;     Processor 2            ;   0.3%      ;
 +----------------------------+-------------+
 
 
@@ -1080,12 +1080,12 @@ Info (334003): Started post-fitting delay annotation
 Info (334004): Delay annotation completed successfully
 Info (334003): Started post-fitting delay annotation
 Info (334004): Delay annotation completed successfully
-Info (11218): Fitter post-fit operations ending: elapsed time is 00:00:00
+Info (11218): Fitter post-fit operations ending: elapsed time is 00:00:01
 Info (144001): Generated suppressed messages file /home/guillermo/Desktop/Organizacion-y-arquitectura-de-computadoras/laboratorio/practicas/01/output_files/practica1.fit.smsg
 Info: Quartus Prime Fitter was successful. 0 errors, 4 warnings
     Info: Peak virtual memory: 922 megabytes
-    Info: Processing ended: Fri Aug 22 09:02:38 2025
-    Info: Elapsed time: 00:00:06
+    Info: Processing ended: Fri Aug 29 08:29:47 2025
+    Info: Elapsed time: 00:00:07
     Info: Total CPU time (on all processors): 00:00:08
 
 
